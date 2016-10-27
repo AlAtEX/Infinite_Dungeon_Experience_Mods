@@ -1,0 +1,1 @@
+100:Potion of Healing I|150:Potion of Healing II|200:Potion of Healing III|250:Potion of Healing IV|300:Potion of Healing V|350:Potion of Healing VI|400:Potion of Healing VII|450:Potion of Healing VIII|500:Potion of Healing IX|!:Potion of Healing X
