@@ -1,0 +1,1 @@
+5:Wooden|10:Stone|20:Iron|30:Gold|40:Diamond|!:Enchanted Diamond
