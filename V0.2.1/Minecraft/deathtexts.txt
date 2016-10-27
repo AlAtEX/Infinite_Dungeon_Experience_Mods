@@ -1,1 +1,1 @@
-You died!
+You died!|The # killed you.
