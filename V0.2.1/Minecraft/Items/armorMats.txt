@@ -1,0 +1,1 @@
+5:Leather|10:Iron|20:Gold|30:Chain|40:Diamond|!:Enchanted Diamond
