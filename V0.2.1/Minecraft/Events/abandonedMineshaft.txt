@@ -1,0 +1,19 @@
+You happen across an abandoned mineshaft.
+!r|5
+!1
+!ff|2|2|5|10|Cave Spider|You find a cave spider spawner.|You get poisoned and die.|You destroy the spawner|5,False,False|10
+!tc|2|5
+!e
+!2
+!fr
+!e
+!3
+!fr
+!e
+!4
+!tc|1|4
+!e
+!5
+!tc|1|4
+!e
+!p|You exit the shaft.
